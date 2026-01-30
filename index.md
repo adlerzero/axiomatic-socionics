@@ -2,6 +2,7 @@
 layout: default
 title: An Axiomatic Approach to the Elements of Socionics
 ---
+# An Axiomatic Approach to the Elements of Socionics
 ## § Quaestio Prima - Introduction
 
 Frequently, the reader encounters, in socionics, repetitive and exhaustive explanations that attempt to state what a given element, block, dichotomy, or property is. Such descriptions, however, almost always limit themselves to brief, nominal, and mnemonic definitions, offering operational labels that contribute little or nothing to an effective understanding of the system’s underlying structure.
