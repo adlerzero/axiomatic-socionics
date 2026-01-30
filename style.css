@@ -1,68 +1,60 @@
-bo/* ===== Base ===== */
 body {
-  font-family: "Libre Baskerville", "Georgia", "Times New Roman", serif;
-  background: #fdfdfc;
-  color: #111;
-  line-height: 1.75;
-  max-width: 780px;
-  margin: 4rem auto;
-  padding: 0 1.2rem;
-  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  background: #ffffff;
+  color: #000000;
+  line-height: 1.6;
+  max-width: 740px;
+  margin: 3.5rem auto;
+  padding: 0 1rem;
+  font-size: 16px;
 }
 
-/* ===== Headings ===== */
-h1 {
-  font-size: 1.9rem;
-  margin-top: 4rem;
-  margin-bottom: 1.5rem;
+h1, h2, h3, h4 {
   font-weight: normal;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 1.45rem;
 }
 
 h2 {
-  font-size: 1.55rem;
-  margin-top: 3.2rem;
-  margin-bottom: 1.2rem;
-  font-weight: normal;
+  font-size: 1.25rem;
 }
 
 h3 {
-  font-size: 1.25rem;
-  margin-top: 2.6rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
+  font-size: 1.1rem;
 }
 
 h4 {
-  font-size: 1.1rem;
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
-  font-weight: normal;
+  font-size: 1rem;
 }
 
-/* ===== Paragraphs ===== */
 p {
-  margin: 1.1rem 0;
+  margin: 0.9rem 0;
   text-align: justify;
 }
 
-/* ===== Blockquotes ===== */
 blockquote {
-  border-left: 3px solid #bbb;
-  padding-left: 1rem;
-  margin: 1.5rem 0;
-  color: #444;
-  font-style: italic;
+  margin: 1rem 0 1rem 1.2rem;
+  padding-left: 0.8rem;
+  border-left: 2px solid #888;
+  color: #111;
+  font-style: normal;
 }
 
-/* ===== Horizontal rule ===== */
 hr {
   border: none;
-  border-top: 1px solid #ccc;
-  margin: 3rem 0;
+  border-top: 1px solid #999;
+  margin: 2.5rem 0;
 }
 
-/* ===== Footer signature ===== */
-blockquote em {
-  font-style: italic;
+a {
+  color: #000;
+  text-decoration: underline;
 }
 
+a:hover {
+  text-decoration: none;
+}
